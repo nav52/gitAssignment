@@ -7,3 +7,5 @@
 1. [Git CLI]https://git-scm.com/downloads
 2. [GitHub]https://github.com
 3. [VS Code]https://code.visualstudio.com/download
+
+# Details on the Project

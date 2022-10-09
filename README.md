@@ -7,3 +7,7 @@
 1. [Git CLI]https://git-scm.com/downloads
 2. [GitHub]https://github.com
 3. [VS Code]https://code.visualstudio.com/download
+
+### Assignment Document
+
+Assignment document can be found at https://github.com/nav52/gitAssignment/blob/main/docs/Assignment-1_Git.pdf

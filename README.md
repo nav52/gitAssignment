@@ -10,4 +10,4 @@
 
 ### Assignment Document
 
-Assignment document can be found at [here](https://github.com/nav52/gitAssignment/blob/main/docs/Assignment-1_Git.pdf)
+Assignment document can be found at [here](https://github.com/nav52/gitAssignment/blob/main/docs/Assignment-1%20Git.md)
